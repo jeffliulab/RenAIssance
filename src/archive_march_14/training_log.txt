@@ -1,0 +1,1306 @@
+总共有 18 张图像.
+训练集索引: [6, 15, 14, 7, 8, 16, 10, 3, 4, 11, 12, 5]
+验证集索引: [2, 17, 13]
+测试集索引: [9, 0, 1]
+
+检查数据集掩码:
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练 数据集掩码统计：总数 12, 全0: 0, 全1: 0, 有内容: 12
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+验证 数据集掩码统计：总数 3, 全0: 0, 全1: 0, 有内容: 3
+读取图像: data/annotation_images/4_page_001.png, 掩码: data/mask/4_page_001_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/1_page_002.png, 掩码: data/mask/1_page_002_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/1_page_001.png, 掩码: data/mask/1_page_001_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+测试 数据集掩码统计：总数 3, 全0: 0, 全1: 0, 有内容: 3
+
+使用设备: cuda
+模型结构:
+SimpleUNet(
+  (enc1): Sequential(
+    (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (enc2): Sequential(
+    (0): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (enc3): Sequential(
+    (0): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (middle): Sequential(
+    (0): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (dec3): Sequential(
+    (0): Conv2d(768, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (dec2): Sequential(
+    (0): Conv2d(384, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (dec1): Sequential(
+    (0): Conv2d(192, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (5): ReLU(inplace=True)
+  )
+  (final): Conv2d(64, 1, kernel_size=(1, 1), stride=(1, 1))
+  (pool): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  (up): Upsample(scale_factor=2.0, mode='bilinear')
+)
+
+开始Epoch 1/10
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.2510075569152832, 0.9885110855102539]
+Dice值: tensor([0.5796, 0.6656], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 0 - 损失: 1.0415
+Dice值: tensor([0.5726, 0.6427], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.3043, 0.3956], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.5285, 0.5773], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.6839, 0.5411], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.7297, 0.5667], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.8978
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.5242249369621277, 预测最大值: 1.0
+  预测唯一值数量: 8865
+  预测唯一值前10个: [0.52422494 0.5413191  0.5516731  0.5645757  0.57261044 0.57467365
+ 0.577027   0.5779196  0.5832338  0.5995185 ]
+  二值化预测唯一值: [1.]
+  批次IoU: 0.3991, 批次Dice: 0.5492
+  预测区域像素数: 100352.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=1.0000, 最大值=1.0000, 平均值=1.0000
+样本 1 预测统计: 最小值=1.0000, 最大值=1.0000, 平均值=1.0000
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.5154561400413513, 预测最大值: 1.0
+  预测唯一值数量: 3822
+  预测唯一值前10个: [0.51545614 0.5368009  0.55299205 0.56227267 0.5682685  0.5787965
+ 0.58037126 0.59897137 0.60629123 0.60796356]
+  二值化预测唯一值: [1.]
+  批次IoU: 0.6572, 批次Dice: 0.7932
+  预测区域像素数: 50176.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [1/10] - Train Loss: 1.1011 | Val IoU: 0.5281, Val Dice: 0.6712
+
+开始Epoch 2/10
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.016303403303027153, 0.9973605275154114]
+Dice值: tensor([0.6647, 0.5919], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 0 - 损失: 0.9573
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.5324, 0.4371], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.5081, 0.4669], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.6337, 0.5139], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+Dice值: tensor([0.8334, 0.5407], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8365, 0.6123], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.7280
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.2820811867713928, 预测最大值: 1.0
+  预测唯一值数量: 30484
+  预测唯一值前10个: [0.2820812  0.28312907 0.28334045 0.28488234 0.28509402 0.28568187
+ 0.2862604  0.28638557 0.28646615 0.2872427 ]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.4205, 批次Dice: 0.5689
+  预测区域像素数: 95457.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.9562
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.9462
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.269845575094223, 预测最大值: 1.0
+  预测唯一值数量: 6043
+  预测唯一值前10个: [0.26984558 0.27121958 0.27136883 0.27148852 0.2717714  0.2718707
+ 0.27221492 0.27236387 0.272507   0.27259365]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.6851, 批次Dice: 0.8131
+  预测区域像素数: 48138.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [2/10] - Train Loss: 1.0580 | Val IoU: 0.5528, Val Dice: 0.6910
+
+开始Epoch 3/10
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.43427810072898865, 0.9912102222442627]
+Dice值: tensor([0.5220, 0.4689], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+  批次 0 - 损失: 1.3204
+Dice值: tensor([0.6668, 0.6045], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.6773, 0.4836], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.6148, 0.6239], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8359, 0.6600], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.5736, 0.5878], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 1.0218
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.20732031762599945, 预测最大值: 1.0
+  预测唯一值数量: 51046
+  预测唯一值前10个: [0.20732032 0.20733123 0.20741758 0.2074634  0.20764975 0.20768777
+ 0.20799321 0.20802736 0.20846203 0.20846735]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.5940, 批次Dice: 0.7365
+  预测区域像素数: 64234.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.4976
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.7826
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.22066660225391388, 预测最大值: 1.0
+  预测唯一值数量: 18392
+  预测唯一值前10个: [0.2206666  0.2210213  0.22131339 0.22138217 0.22167829 0.2217465
+ 0.22180977 0.22248334 0.22250286 0.22258562]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7470, 批次Dice: 0.8552
+  预测区域像素数: 44144.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [3/10] - Train Loss: 1.0448 | Val IoU: 0.6705, Val Dice: 0.7959
+
+开始Epoch 4/10
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.19752803444862366, 0.9806205630302429]
+Dice值: tensor([0.6436, 0.6231], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+  批次 0 - 损失: 0.9753
+Dice值: tensor([0.7652, 0.6136], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+Dice值: tensor([0.7895, 0.5131], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.6167, 0.5765], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8204, 0.6576], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8361, 0.4032], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.9731
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.24487115442752838, 预测最大值: 0.9999995231628418
+  预测唯一值数量: 65685
+  预测唯一值前10个: [0.24487115 0.24491154 0.24502736 0.24505755 0.24533081 0.24538383
+ 0.24542843 0.24555993 0.24559835 0.2457416 ]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.6526, 批次Dice: 0.7846
+  预测区域像素数: 58662.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.4213
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.7478
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.27108234167099, 预测最大值: 0.9999957084655762
+  预测唯一值数量: 33613
+  预测唯一值前10个: [0.27108234 0.27147254 0.2714829  0.27167812 0.27187198 0.27198073
+ 0.27220133 0.27234378 0.2723588  0.27282912]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7767, 批次Dice: 0.8743
+  预测区域像素数: 42446.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [4/10] - Train Loss: 0.9104 | Val IoU: 0.7146, Val Dice: 0.8295
+
+开始Epoch 5/10
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.043923038989305496, 0.998008668422699]
+Dice值: tensor([0.7068, 0.4137], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+  批次 0 - 损失: 1.0411
+Dice值: tensor([0.4939, 0.7961], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.6208, 0.7678], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.5838, 0.7041], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.9056, 0.4675], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8921, 0.6749], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.5980
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.24832746386528015, 预测最大值: 0.9995218515396118
+  预测唯一值数量: 84916
+  预测唯一值前10个: [0.24832746 0.24839385 0.24848874 0.24873967 0.24886163 0.24941653
+ 0.24942465 0.25012147 0.25051957 0.25090972]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7364, 批次Dice: 0.8473
+  预测区域像素数: 53085.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.3336
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.7244
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.2811913788318634, 预测最大值: 0.9992146492004395
+  预测唯一值数量: 46363
+  预测唯一值前10个: [0.28119138 0.28129363 0.28153026 0.28215417 0.28215986 0.28240502
+ 0.28277445 0.28284606 0.28302428 0.2840164 ]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7957, 批次Dice: 0.8862
+  预测区域像素数: 41422.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [5/10] - Train Loss: 0.8610 | Val IoU: 0.7660, Val Dice: 0.8668
+
+开始Epoch 6/10
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Sigmoid后值范围: [0.040764398872852325, 0.9791752696037292]
+Dice值: tensor([0.6616, 0.5806], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+  批次 0 - 损失: 1.0577
+Dice值: tensor([0.8035, 0.5734], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8254, 0.4952], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8498, 0.5616], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.8939, 0.3458], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8507, 0.3756], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.8509
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.17639052867889404, 预测最大值: 0.9948639273643494
+  预测唯一值数量: 94120
+  预测唯一值前10个: [0.17639053 0.17653076 0.1766482  0.17697182 0.17740674 0.17761157
+ 0.17803235 0.17803262 0.17834674 0.1783942 ]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.8882, 批次Dice: 0.9405
+  预测区域像素数: 43293.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.2558
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.6070
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.19315601885318756, 预测最大值: 0.9932716488838196
+  预测唯一值数量: 49635
+  预测唯一值前10个: [0.19315602 0.19346929 0.19404104 0.19418082 0.19536828 0.19550204
+ 0.19561847 0.19643807 0.1965935  0.19673188]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.9168, 批次Dice: 0.9566
+  预测区域像素数: 34541.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [6/10] - Train Loss: 0.8891 | Val IoU: 0.9025, Val Dice: 0.9486
+
+开始Epoch 7/10
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.07205037772655487, 0.990898847579956]
+Dice值: tensor([0.7163, 0.5783], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+  批次 0 - 损失: 0.8389
+Dice值: tensor([0.6312, 0.7074], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+Dice值: tensor([0.8822, 0.5699], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8818, 0.5876], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.9135, 0.5725], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8987, 0.3925], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.8567
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.05222087353467941, 预测最大值: 0.7560814023017883
+  预测唯一值数量: 92125
+  预测唯一值前10个: [0.05222087 0.05222164 0.05224364 0.05225679 0.05226004 0.05227023
+ 0.05228074 0.05228581 0.05230786 0.05233934]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.0930, 批次Dice: 0.1676
+  预测区域像素数: 3036.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.0306
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.0299
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.061077069491147995, 预测最大值: 0.8592731952667236
+  预测唯一值数量: 50087
+  预测唯一值前10个: [0.06107707 0.06114952 0.06120315 0.0612822  0.06133468 0.06134124
+ 0.06134415 0.06134902 0.06135917 0.06139433]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.2346, 批次Dice: 0.3800
+  预测区域像素数: 7883.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [7/10] - Train Loss: 0.7710 | Val IoU: 0.1638, Val Dice: 0.2738
+
+开始Epoch 8/10
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.046561043709516525, 0.9803324937820435]
+Dice值: tensor([0.7175, 0.7629], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+  批次 0 - 损失: 0.7456
+Dice值: tensor([0.8331, 0.3691], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8499, 0.6112], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.7105, 0.5339], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.7617, 0.6827], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.8805, 0.6874], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.6025
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.012669960036873817, 预测最大值: 0.4461531937122345
+  预测唯一值数量: 84355
+  预测唯一值前10个: [0.01266996 0.01267217 0.01267515 0.01267561 0.01267575 0.01268181
+ 0.01268548 0.01268705 0.01268947 0.01269005]
+  二值化预测唯一值: [0.]
+  批次IoU: 0.0000, 批次Dice: 0.0000
+  预测区域像素数: 0.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=0.0000, 平均值=0.0000
+样本 1 预测统计: 最小值=0.0000, 最大值=0.0000, 平均值=0.0000
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.014273673295974731, 预测最大值: 0.4610069990158081
+  预测唯一值数量: 49933
+  预测唯一值前10个: [0.01427367 0.0142745  0.0142777  0.01427864 0.01428508 0.01429071
+ 0.01429135 0.01429248 0.01429528 0.0142966 ]
+  二值化预测唯一值: [0.]
+  批次IoU: 0.0000, 批次Dice: 0.0000
+  预测区域像素数: 0.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [8/10] - Train Loss: 0.7969 | Val IoU: 0.0000, Val Dice: 0.0000
+
+开始Epoch 9/10
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.030922258272767067, 0.9282305836677551]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8151, 0.7211], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+  批次 0 - 损失: 0.6928
+Dice值: tensor([0.6031, 0.4633], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.9113, 0.6822], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.4621, 0.5700], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.7662, 0.5317], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.8935, 0.6937], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 0.5859
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.0031112395226955414, 预测最大值: 0.45040929317474365
+  预测唯一值数量: 88042
+  预测唯一值前10个: [0.00311124 0.0031131  0.00311407 0.0031145  0.00311518 0.0031155
+ 0.00311673 0.00311743 0.00311979 0.00311993]
+  二值化预测唯一值: [0.]
+  批次IoU: 0.0000, 批次Dice: 0.0000
+  预测区域像素数: 0.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=0.0000, 平均值=0.0000
+样本 1 预测统计: 最小值=0.0000, 最大值=0.0000, 平均值=0.0000
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.003776676021516323, 预测最大值: 0.46581873297691345
+  预测唯一值数量: 49783
+  预测唯一值前10个: [0.00377668 0.00377882 0.00377945 0.00378143 0.00378191 0.00378294
+ 0.00378448 0.00378796 0.00378885 0.00379161]
+  二值化预测唯一值: [0.]
+  批次IoU: 0.0000, 批次Dice: 0.0000
+  预测区域像素数: 0.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [9/10] - Train Loss: 0.9402 | Val IoU: 0.0000, Val Dice: 0.0000
+
+开始Epoch 10/10
+读取图像: data/annotation_images/3_page_002.png, 掩码: data/mask/3_page_002_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_002.png, 掩码: data/mask/2_page_002_mask.png
+原始图像形状: (3216, 2419, 3), 掩码形状: (3216, 2419)
+图像值范围: [0, 210], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_001.png, 掩码: data/mask/5_page_001_mask.png
+原始图像形状: (8825, 6225, 3), 掩码形状: (8825, 6225)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+训练批次 - 图像形状: torch.Size([2, 3, 224, 224]), 掩码形状: torch.Size([2, 1, 224, 224])
+掩码唯一值: [0. 1.]
+模型输出形状: torch.Size([2, 1, 224, 224])
+Sigmoid后值范围: [0.01209419034421444, 0.9939087629318237]
+Dice值: tensor([0.7465, 0.5828], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 0 - 损失: 0.9325
+读取图像: data/annotation_images/6_page_002.png, 掩码: data/mask/6_page_002_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_003.png, 掩码: data/mask/2_page_003_mask.png
+原始图像形状: (3248, 2463, 3), 掩码形状: (3248, 2463)
+图像值范围: [0, 213], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_001.png, 掩码: data/mask/3_page_001_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+Dice值: tensor([0.6499, 0.8059], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/3_page_003.png, 掩码: data/mask/3_page_003_mask.png
+原始图像形状: (3508, 2481, 3), 掩码形状: (3508, 2481)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_002.png, 掩码: data/mask/4_page_002_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/4_page_003.png, 掩码: data/mask/4_page_003_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.8466, 0.3743], device='cuda:0', grad_fn=<DivBackward0>)
+Dice值: tensor([0.8475, 0.6646], device='cuda:0', grad_fn=<DivBackward0>)
+读取图像: data/annotation_images/6_page_001.png, 掩码: data/mask/6_page_001_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/5_page_003.png, 掩码: data/mask/5_page_003_mask.png
+原始图像形状: (8825, 6163, 3), 掩码形状: (8825, 6163)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/2_page_001.png, 掩码: data/mask/2_page_001_mask.png
+原始图像形状: (3253, 2472, 3), 掩码形状: (3253, 2472)
+图像值范围: [0, 229], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.9066, 0.6411], device='cuda:0', grad_fn=<DivBackward0>)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Dice值: tensor([0.7850, 0.4012], device='cuda:0', grad_fn=<DivBackward0>)
+  批次 5 - 损失: 1.0100
+
+开始验证...
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.051829222589731216, 预测最大值: 0.7519435882568359
+  预测唯一值数量: 96238
+  预测唯一值前10个: [0.05182922 0.05183525 0.05186223 0.05186517 0.05188796 0.05190061
+ 0.05191455 0.05191632 0.05193857 0.05193866]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7731, 批次Dice: 0.8707
+  预测区域像素数: 41986.0, 真实区域像素数: 40046.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.1646
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.6722
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.18542300164699554, 预测最大值: 0.7582956552505493
+  预测唯一值数量: 49666
+  预测唯一值前10个: [0.185423   0.18632543 0.1864752  0.18683507 0.18721353 0.18751693
+ 0.18754265 0.18777329 0.1881426  0.18816604]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7704, 批次Dice: 0.8703
+  预测区域像素数: 42748.0, 真实区域像素数: 32977.0
+读取图像: data/annotation_images/1_page_003.png, 掩码: data/mask/1_page_003_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/5_page_002.png, 掩码: data/mask/5_page_002_mask.png
+原始图像形状: (8863, 6307, 3), 掩码形状: (8863, 6307)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/6_page_003.png, 掩码: data/mask/6_page_003_mask.png
+原始图像形状: (8400, 6300, 3), 掩码形状: (8400, 6300)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+Epoch [10/10] - Train Loss: 0.8367 | Val IoU: 0.7717, Val Dice: 0.8705
+
+开始测试...
+读取图像: data/annotation_images/4_page_001.png, 掩码: data/mask/4_page_001_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/1_page_002.png, 掩码: data/mask/1_page_002_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/1_page_001.png, 掩码: data/mask/1_page_001_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+批次 0:
+  掩码形状: torch.Size([2, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([2, 1, 224, 224]), 预测最小值: 0.046588316559791565, 预测最大值: 0.8914980292320251
+  预测唯一值数量: 96263
+  预测唯一值前10个: [0.04658832 0.04664445 0.04665077 0.04680817 0.04682147 0.04709946
+ 0.04711983 0.04752671 0.04753258 0.04797503]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.6681, 批次Dice: 0.8001
+  预测区域像素数: 36806.0, 真实区域像素数: 30979.0
+样本 0 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.6327
+样本 1 预测统计: 最小值=0.0000, 最大值=1.0000, 平均值=0.1008
+批次 1:
+  掩码形状: torch.Size([1, 1, 224, 224]), 掩码最小值: 0.0, 掩码最大值: 1.0
+  掩码唯一值: [0. 1.]
+  预测形状: torch.Size([1, 1, 224, 224]), 预测最小值: 0.050495319068431854, 预测最大值: 0.7398171424865723
+  预测唯一值数量: 46565
+  预测唯一值前10个: [0.05049532 0.05049692 0.05052477 0.05053841 0.05057418 0.05061958
+ 0.05062609 0.05069777 0.05076153 0.05076364]
+  二值化预测唯一值: [0. 1.]
+  批次IoU: 0.7441, 批次Dice: 0.8533
+  预测区域像素数: 12532.0, 真实区域像素数: 16680.0
+读取图像: data/annotation_images/4_page_001.png, 掩码: data/mask/4_page_001_mask.png
+原始图像形状: (3301, 2550, 3), 掩码形状: (3301, 2550)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+读取图像: data/annotation_images/1_page_002.png, 掩码: data/mask/1_page_002_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+读取图像: data/annotation_images/1_page_001.png, 掩码: data/mask/1_page_001_mask.png
+原始图像形状: (6000, 10667, 3), 掩码形状: (6000, 10667)
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+图像值范围: [0, 255], 掩码值范围: [0, 1]
+转换后掩码的唯一值: [0. 1.], 形状: torch.Size([1, 224, 224])
+
+[测试结果] IoU=0.7061, Dice=0.8267
+模型已保存到 segmentation_model.pth
